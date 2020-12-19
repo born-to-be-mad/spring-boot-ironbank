@@ -5,5 +5,5 @@ spring:
     hibernate:
       ddl-auto: validate
 ironbank:
-  who-pays-depts:
+  who-pays-debts:
     - Lanisters

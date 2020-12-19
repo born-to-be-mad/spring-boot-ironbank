@@ -17,7 +17,7 @@ public class IronbankApplicationTests {
 
   @Test
   public void contextLoads() {
-    assert prophetProperties.getWhoPaysDepts().contains("Lanisters");
+    assert prophetProperties.getWhoPaysDebts().contains("Lanisters");
   }
 
 }

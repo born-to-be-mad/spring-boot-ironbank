@@ -15,5 +15,5 @@ import lombok.Data;
 @Data
 @ConfigurationProperties("ironbank")
 public class ProphetProperties {
-  List<String> whoPaysDepts;
+  List<String> whoPaysDebts;
 }
