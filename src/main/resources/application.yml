@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: ironbank
+  jpa:
+    hibernate:
+      ddl-auto: validate
+ironbank:
+  who-pays-depts:
+    - Lanisters
