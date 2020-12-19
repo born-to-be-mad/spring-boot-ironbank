@@ -1,2 +1,1 @@
-# spring-boot-ironbank
-Boot yourself with ironbank from Game of Thrones
+# Boot yourself with Ironbank from Game of Thrones
